@@ -1,0 +1,17 @@
+{
+  "name": "Recep Özen",
+  "description": "Fullstack Developer",
+  "image_url": "https://recepozen.com/#page-top",
+  "links": [
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/recep-%C3%B6zen-444147145/",
+      "icon": "linkedin"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/Sergeant61",
+      "icon": "github"
+    }
+  ]
+}
